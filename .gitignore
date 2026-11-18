@@ -1,0 +1,6 @@
+
+# Ignore everything inside Ferns and Petals Sales
+/Ferns and Petals Sales/*
+
+# Allow only Ferns and Petals Analysis folder
+!/Ferns and Petals Sales/Ferns and Petals Analysis/
