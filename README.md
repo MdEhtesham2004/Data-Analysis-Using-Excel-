@@ -433,3 +433,4 @@ Ultimately, the project provides a data-driven foundation for evaluating student
 ### Overall Conclusion
 
 The business should focus on adult women as its primary target audience, using attractive discounts and promotional campaigns across Amazon, Flipkart, and Ajio. By concentrating on the top-performing states and preparing targeted campaigns around high-sales periods such as March, the business can improve sales, customer engagement, and overall growth.
+
